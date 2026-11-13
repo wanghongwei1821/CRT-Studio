@@ -4,6 +4,10 @@ A CRT screen effect for web
 
 一个基于 WebGL 2 的实时显像管模拟器。用文字、图片、视频或 Canvas 作为信号源，实时调整屏幕弧度、荧光粉排列、扫描线、辉光和色偏。
 
+## 网页美学 Skill
+
+[王宏威的网页美学](.agents/skills/narci-web-aesthetics/SKILL.md) 记录了把 CRT 用于网页作品时的设计与实现规则，包括固定屏幕坐标、Logo 和 Hollow 控件的频闪、明暗模式，以及网页预设与验收方法。模拟器的 API 默认值见下文。
+
 ## 运行演示
 
 在本目录运行以下命令，然后用支持 WebGL 2 的浏览器打开 `http://127.0.0.1:8080/`。
